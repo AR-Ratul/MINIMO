@@ -3,15 +3,19 @@
 
 *{
     
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    font-family: 'DM Serif Text', serif;
-    /*overflow: hidden;*/
-    max-width: 100%
-
+margin: 0;
+    
+padding: 0;
+    
+box-sizing: border-box;
+    
+-webkit-box-sizing: border-box;
+    
+-moz-box-sizing: border-box;
+    
+font-family: 'DM Serif Text', serif;
+    
+max-width: 100%;
 }
 nav{
     width: 86%;
@@ -67,7 +71,7 @@ li{
 }
 body{
     width: 1200px;
-    margin: auto;
+    margin: 0 auto;
     margin-top: 50px;
 }
 header{
@@ -126,6 +130,7 @@ section{
 h1{
     font-weight: 100;
     font-size: 13px;
+    margin-top: 20px;
 }
 h2{
     font-size: 25px;
@@ -143,6 +148,8 @@ h4{
     font-weight: 100;
 }
 section{
+    width: 1200px;
+    margin: auto;
 }
 
 .cover2{}
@@ -164,3 +171,27 @@ section{
 .box-text{
     width: 1000px;
 }
+.box{
+    
+width: 50%;
+    
+float: left;
+    
+padding: 0px 76px;
+}
+
+input[type="text"]
+{
+    font-size: 18px;
+    font-weight: 400;
+    /* border-bottom: 1px solid rgba(0, 0, 0, 0.42); */
+    padding: 19px 0 0;
+    /*width: 600px;*/
+    transition: .25s cubic-bezier(.4,0,.2,1);
+    margin-left: 49px;
+    /* float: left; */
+    border: 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.42);
+    overflow: hidden;
+    outline: 0;
+
