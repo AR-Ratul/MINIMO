@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css?family=DM+Serif+Text&display=swap');
+
+
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    font-family: 'DM Serif Text', serif;
+    /*overflow: hidden;*/
+    max-width: 100%
+
+}
+nav{
+    width: 86%;
+    float: left;
+}
+li{
+    display: inline-block;
+    padding: 10px 50px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+body{
+    width: 1200px;
+    margin: auto;
+    margin-top: 50px;
+}
+header{
+    margin-top: 25px;
+}
+div .logo{
+     width: 14%;
+    float: left;
+}
+.logo{
+    
+}
+ul{
+    text-align: right;
+    list-style-type: none;@import url('https://fonts.googleapis.com/css?family=DM+Serif+Text&display=swap');
+
+
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    font-family: 'DM Serif Text', serif;
+    /*overflow: hidden;*/
+    max-width: 100%
+
+}
+nav{
+    width: 86%;
+    float: left;
+}
+li{
+    display: inline-block;
+    padding: 10px 50px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+body{
+    width: 1200px;
+    margin: auto;
+    margin-top: 50px;
+}
+header{
+    margin-top: 25px;
+}
+div .logo{
+     width: 14%;
+    float: left;
+}
+.logo{
+    
+}
+ul{
+    text-align: right;
+    list-style-type: none;
+    padding: 0;
+}
+.cover{
+}
+.cover div{}
+.cover img{
+    margin-top: 100px;
+    width: 1200px;
+}
+.content{
+    margin: 0 auto;
+    font-size: 10px;
+    font-weight: 100;
+    width: 1000px;
+}
+h1{}
+h2{}
+h3{}
+h4{}
+section{
+    width: 1200px;
+}
+
+    padding: 0;
+}
+.cover{
+}
+.cover div{
+}
+.cover img{
+    margin-top: 100px;
+    width: 1200px;
+}
+.content{
+    margin: 0 auto;
+    font-size: 10px;
+    font-weight: 100;
+    width: 1000px;
+    margin-top: 100px;
+}
+h1{
+    font-weight: 100;
+    font-size: 13px;
+}
+h2{
+    font-size: 25px;
+    margin-top: 15px;
+    text-transform: capitalize;
+    font-weight: 100;
+}
+h3{
+    font-weight: 100;
+    margin-top: 15px;
+}
+h4{
+    margin-top: 40px;
+    text-transform: uppercase;
+    font-weight: 100;
+}
+section{
+}
+
+.cover2{}
+.container{}
+.box-img{
+    margin: 0 auto;
+    width: 1200px;
+    margin-top: 100px;
+}
+.box-img img{
+    width: 50%;
+    float: left;
+    padding: 36px 102px;
+}
+.text{
+    width: 50%;
+    float: left;
+}
+.box-text{
+    width: 1000px;
+}
