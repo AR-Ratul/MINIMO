@@ -134,7 +134,7 @@ h1{
 }
 h2{
     font-size: 25px;
-    margin-top: 15px;
+    margin-top: 21px;
     text-transform: capitalize;
     font-weight: 100;
 }
@@ -149,7 +149,8 @@ h4{
 }
 section{
     width: 1200px;
-    margin: auto;
+    margin: 0 auto;
+    overflow: hidden;
 }
 
 .cover2{}
@@ -194,8 +195,18 @@ input[type="text"]
     border-bottom: 1px solid rgba(0, 0, 0, 0.42);
     overflow: hidden;
     outline: 0;
-
+    background-color: #00000000;
 }
+section .box-content{}
+
+
+section .input-box {
+    clear: both;
+    text-align: center;
+    background-color: #0000000d;
+    padding: 90px;
+}
+
 .content-last .box{
     float: right;
 }
@@ -215,6 +226,25 @@ input[type="text"]
     width: 1200px;
     text-align: right;
 }
-section .box-content{}
 
-section .input-box{}
+footer .end{}
+footer{
+    padding: 69px 171px;
+    background-color: #8a8a8a26;
+    margin-top: 156px;
+}
+.end h6{
+    float: left;
+    font-size: 15px;
+    font-weight: 100;
+}
+.end p{
+    float: left;
+    margin-left: 25px;
+    font-size: 15px;
+    font-weight: 100;
+} 
+
+.end .follow{
+    margin-left: 590px;
+}
