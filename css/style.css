@@ -195,3 +195,26 @@ input[type="text"]
     overflow: hidden;
     outline: 0;
 
+}
+.content-last .box{
+    float: right;
+}
+
+.btn button{
+    text-align: center;
+    outline: 0;
+    border-color: black;
+    background-color: white;
+    width: 136px;
+    height: 56px;
+    margin-top: 75px;
+    font-size: 16px;
+    font-weight: 100;
+}
+.btn{
+    width: 1200px;
+    text-align: right;
+}
+section .box-content{}
+
+section .input-box{}
